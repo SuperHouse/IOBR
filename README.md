@@ -3,12 +3,12 @@ I/O Breakout Shield
 Copyright 2017 SuperHouse Pty Ltd  
 SuperHouse site:  <www.superhouse.tv>  
 
-Breaks out sets of I/O pins to 2x5 pin headers.
+Breaks out sets of I/O pins to 2x6 pin headers.
 
 Features:
 
- * 3 x 2x5 shrouded pin headers
- * Each header provides 8 x data lines, 2 x GND, 2 x VCC
+ * 3 x 2x6 shrouded pin headers
+ * Each header provides 8 x data lines, GND, VIN, IOREF, and RESET
 
 
 More information is available at:
