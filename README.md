@@ -1,9 +1,11 @@
 I/O Breakout Shield
 ===================
-Copyright 2017 SuperHouse Pty Ltd  
+Copyright 2017-2019 SuperHouse Pty Ltd  
 SuperHouse site:  <www.superhouse.tv>  
 
 Breaks out sets of I/O pins to 2x6 pin headers.
+
+![PCB render](IOBR-v2_1-render_1.jpg)
 
 Features:
 
